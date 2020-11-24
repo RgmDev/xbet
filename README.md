@@ -1,2 +1,2 @@
-# node-cheerio
-Web scrapping
+# xbet
+Estudio de la empateología
