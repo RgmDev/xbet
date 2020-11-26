@@ -4,7 +4,7 @@ const mysql = require('mysql');
 const dateTime = require('node-datetime'); 
 
 let division = 'segunda';
-let season = 2009;
+let season = 2019;
 
 
 //get_journey(division, season, 1)
@@ -20,6 +20,7 @@ let season = 2009;
 
 
 
+
 //get_journey(division, season, 11)
 //get_journey(division, season, 12)
 //get_journey(division, season, 13)
@@ -32,18 +33,18 @@ let season = 2009;
 //get_journey(division, season, 20)
 
 
-/*
-get_journey(division, season, 21)
-get_journey(division, season, 22)
-get_journey(division, season, 23)
-get_journey(division, season, 24)
-get_journey(division, season, 25)
-get_journey(division, season, 26)
-get_journey(division, season, 27)
-get_journey(division, season, 28)
-get_journey(division, season, 29)
-get_journey(division, season, 30)
-*/
+
+//get_journey(division, season, 21)
+//get_journey(division, season, 22)
+//get_journey(division, season, 23)
+//get_journey(division, season, 24)
+//get_journey(division, season, 25)
+//get_journey(division, season, 26)
+//get_journey(division, season, 27)
+//get_journey(division, season, 28)
+//get_journey(division, season, 29)
+//get_journey(division, season, 30)
+
 
 
 //get_journey(division, season, 31)
